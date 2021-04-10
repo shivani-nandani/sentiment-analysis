@@ -19,3 +19,6 @@ parameter in the dataset:
 - Time - timestamp
 - Summary - summary of the review
 - Text - text of the review
+
+what each file does:
+- read_data.ipynb reads the data and does the basic data cleaning 
